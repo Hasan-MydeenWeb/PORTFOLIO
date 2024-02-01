@@ -24,7 +24,7 @@ export const Aboutme = () => {
                 related to Web Development and Programming</p>  
 
                 <div className='contact-me'>
-                    <button>DOWNLOAD CV</button>
+                    <button> <a href='https://drive.google.com/file/d/1dTP2wmw4QRu4Xal64fHF5zfR3laMWMAw/view?usp=sharing'>DOWNLOAD CV</a></button>
                 </div>               
 
 

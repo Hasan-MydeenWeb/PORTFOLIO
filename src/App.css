@@ -284,7 +284,12 @@ border-radius: 3px;
 font-weight: 600;
 font-family: 'Poppins', sans-serif; 
 margin-top: 30px;
-}   
+}  
+.contact-me a{
+  text-decoration: none;
+  color: white;
+} 
+
 
 
                        /* sectionskils */
