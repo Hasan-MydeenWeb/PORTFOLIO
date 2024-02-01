@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO/static/css/main.dff49108.css",
+    "main.js": "/PORTFOLIO/static/js/main.337d66d2.js",
+    "static/js/787.7da95b79.chunk.js": "/PORTFOLIO/static/js/787.7da95b79.chunk.js",
+    "static/media/Asanprofile.png": "/PORTFOLIO/static/media/Asanprofile.38492a04b1b32ad47b24.png",
+    "static/media/api screenshort.png": "/PORTFOLIO/static/media/api screenshort.333831a80ae6e7eea1c0.png",
+    "static/media/cake shop.png": "/PORTFOLIO/static/media/cake shop.04938b1ee7616f0d0b2d.png",
+    "static/media/scaner expres.png": "/PORTFOLIO/static/media/scaner expres.0ae576673b173e817f8c.png",
+    "static/media/headphone potflio-img.png": "/PORTFOLIO/static/media/headphone potflio-img.591d766190ef81af5bb9.png",
+    "static/media/bootstrap single page.png": "/PORTFOLIO/static/media/bootstrap single page.c8ac5eab9c1d0ecfdbc4.png",
+    "static/media/program-removebg-preview.png": "/PORTFOLIO/static/media/program-removebg-preview.6b9f9232383db7e97f83.png",
+    "static/media/figma-icon-2048x2048-lvgft610.png": "/PORTFOLIO/static/media/figma-icon-2048x2048-lvgft610.15006fe3a67f58ef97ed.png",
+    "static/media/curd form.png": "/PORTFOLIO/static/media/curd form.eee46b2f66f0779c7707.png",
+    "static/media/mongodb-img.png": "/PORTFOLIO/static/media/mongodb-img.bf8042403d8797a7ff1b.png",
+    "static/media/react-img.png": "/PORTFOLIO/static/media/react-img.ccb97f287d4d51b10a6b.png",
+    "index.html": "/PORTFOLIO/index.html",
+    "main.dff49108.css.map": "/PORTFOLIO/static/css/main.dff49108.css.map",
+    "main.337d66d2.js.map": "/PORTFOLIO/static/js/main.337d66d2.js.map",
+    "787.7da95b79.chunk.js.map": "/PORTFOLIO/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dff49108.css",
+    "static/js/main.337d66d2.js"
+  ]
+}
