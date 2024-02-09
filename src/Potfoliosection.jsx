@@ -29,7 +29,7 @@ export const Potfoliosection = () => {
 
                     </div>
                     <div className='pot-content'>
-                    <h1>Website Design</h1>
+                    <h1>Responsive Headphone Website using HTML and CSS</h1>
 
                         <div className='btn-sorce'>
                         <a href="https://hasan-mydeenweb.github.io/headphone-multypage/" target="_blank"><button type="submit">View Demo</button></a>
@@ -47,7 +47,7 @@ export const Potfoliosection = () => {
 
                     </div>
                     <div className='pot-content'>
-                        <h1>Website Design</h1>
+                        <h1>Responsive Cakeshop Website using HTML and CSS</h1>
                         <div className='btn-sorce'>
                         <a href="https://hasan-mydeenweb.github.io/cake-website/" target="_blank"><button type="submit">View Demo</button></a>
                         <a href="https://github.com/Hasan-MydeenWeb/cake-website" target="_blank"><button type="submit">Source Code</button></a>
@@ -63,7 +63,7 @@ export const Potfoliosection = () => {
 
                     </div>
                     <div className='pot-content'>
-                        <h1>Website Design</h1>
+                        <h1>Responsive Movie-OTT Platform Website using HTML and CSS Javascript</h1>
                         <div className='btn-sorce'>
                         <a href="https://hasan-mydeenweb.github.io/OTT-Api/" target="_blank"><button type="submit">View Demo</button></a>
                         <a href="https://github.com/Hasan-MydeenWeb/OTT-Api/tree/master/images" target="_blank" ><button type="submit">Source Code</button></a>
@@ -78,7 +78,7 @@ export const Potfoliosection = () => {
 
                     </div>
                     <div className='pot-content'>
-                        <h1>Website Design</h1>
+                        <h1>Responsive CURD Form using HTML and CSS Javascript</h1>
                         <div className='btn-sorce'>
                         <a href="https://hasan-mydeenweb.github.io/crudform/" target="_blank"><button type="submit">View Demo</button></a>
                         <a href="https://github.com/Hasan-MydeenWeb/crudform" target="_blank"><button type="submit">Source Code</button></a>
@@ -95,7 +95,7 @@ export const Potfoliosection = () => {
 
                     </div>
                     <div className='pot-content'>
-                        <h1>Website Design</h1>
+                        <h1>Room Booking Website using HTML, CSS and Boostrap</h1>
                         <div className='btn-sorce'>
                         <a href=" https://hasan-mydeenweb.github.io/Ressortsinglepage/" target="_blank"><button type="submit">View Demo</button></a>
                         <a href="https://github.com/Hasan-MydeenWeb/Ressortsinglepage" target="_blank"><button type="submit">Source Code</button></a>
@@ -111,7 +111,7 @@ export const Potfoliosection = () => {
 
                     </div>
                     <div className='pot-content'>
-                        <h1>Website Design</h1>
+                        <h1>Responsive QR-Code Generator using Nodejs and ExpressJs </h1>
                         <div className='btn-sorce'>
                         <a href="https://github.com/Hasan-MydeenWeb" target="_blank"><button type="submit">View Demo</button></a>
                         <a href="https://github.com/Hasan-MydeenWeb" target="_blank"><button type="submit">Source Code</button></a>

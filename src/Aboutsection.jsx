@@ -44,7 +44,7 @@ useEffect(()=>{
                       </div>
                     
                     <h2><b> I'm </b> <span className='spananimation' ref={el}></span> </h2>
-                    <p>A Frontend focused Web Developer building the Frontend
+                    <p>A Full Stack Web Developer building the Frontend & Backend
                     of Websites and Web Applications that leads to the
                     success of the overall product</p>
 

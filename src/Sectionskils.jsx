@@ -34,15 +34,15 @@ export const Sectionskils = () => {
                     </div>
 
                     <div className='white-div' data-aos="flip-up">
-                      <h2>HSC</h2>
+                      <h2>SSLC</h2>
                       <p>Govt HR SEC School</p>
-                      <p>(2023)</p>
+                      <p>(2017)</p>
                     </div>
                     
                     <div className='white-div' data-aos="flip-up">
                       <h2>HSC</h2>
                       <p>Govt HR SEC School</p>
-                      <p>(2023)</p>
+                      <p>(2019)</p>
                     </div>
 
                     </div>
